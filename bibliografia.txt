@@ -1,2 +1,4 @@
 chancon, S. and straub, B. Pro Git. Apress.
 Loeliger, J and McCullough, M. Version control with Git. O'Reilly   
+Scott Chaco and Ben Straub. Pro Git. Apress
+Ryan Hondson. Ry's Git Tutoriaal. Smashwords (2014)
